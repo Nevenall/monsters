@@ -1,4 +1,4 @@
-![Trunkles](\images\trunkles.jpg)
+![Trunkles](\images\trunkles.jpg?raw=true)
 
 # Trunkles
 

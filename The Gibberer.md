@@ -1,5 +1,5 @@
 
-![The Gibberer](\images\gibberer.jpg)
+![The Gibberer](\images\gibberer.jpg?raw=true)
 
 # The Gibberer
 hideous laughter

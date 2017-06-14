@@ -1,5 +1,5 @@
 
-![The Scentorg](\images\scentorg.jpg)
+![The Scentorg](\images\scentorg.jpg?raw=true)
 
 # The Scentorg
 

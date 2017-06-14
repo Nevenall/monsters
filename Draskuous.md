@@ -1,1 +1,1 @@
-![Draskuous](\images\draskuous.jpg)
+![Draskuous](\images\draskuous.jpg?raw=true)

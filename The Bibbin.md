@@ -1,6 +1,6 @@
 
 
-![The Bibbin](\images\bibbin.jpg)
+![The Bibbin](\images\bibbin.jpg?raw=true)
 
 
 # The Bibbin
