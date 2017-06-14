@@ -1,0 +1,1 @@
+![Draskuous](\images\draskuous.jpg)
