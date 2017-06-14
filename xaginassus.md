@@ -1,1 +1,1 @@
-![xaginassus](\images\xaginassus.jpg?raw=true)
+![xaginassus](/images/xaginassus.jpg?raw=true)
