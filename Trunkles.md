@@ -9,7 +9,10 @@ instinct
 
 stats
 
-moves  
-
-
-## Summoning The (a?) Trunkles
+## Moves
+Sing a soothing song 
+Stand a sleepless watch  
+Beg for food 
+Sniff out danger 
+Squeeze through small spaces 
+Flee
