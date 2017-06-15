@@ -4,10 +4,32 @@
 
 The (a?) Trunkles is a timid creature created by an unknown human aberrationist to serve in ceaseless subterranean conflicts. Trunkles can grant a group of beings the power of infravision through a powerful magical aura it projects as well as warn of traps and ambushes through it's powerful sense of smell. Unfortunately, Trunkles timidity caused it to flee from it's first conflict, leaving it's companions to perish in dark, unable to see their foes. 
 
+## Trunkles the Hireling
 
-instinct
+Trunkles as an abberent hireling.
 
-stats
+Cost: Food and friendship.
+
+Loyalty: Starts at 0. Based very much on food and warmth.
+- Trunkles will never directly attack and not fleeing from danger or threats is a test of its loyalty. 
+
+Skills: Start with a number of strong skills that make it worthwhile.
+- Sing a soothing song
+- Stand a sleepless watch
+- Sniff out danger
+
+Trunckles ultimately desires a mate.
+
+
+## Trunkles the Monster
+
+Trunkles the uncatchable monsterocity. 
+
+
+## Instinct
+
+## Stats
+
 
 ## Moves
 Sing a soothing song 
