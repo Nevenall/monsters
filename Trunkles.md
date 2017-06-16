@@ -52,3 +52,8 @@ Beg for food
 Sniff out dangers
 Squeeze through small spaces 
 Flee
+
+
+## A Secret
+
+Trunkles desires a mate above all else.
