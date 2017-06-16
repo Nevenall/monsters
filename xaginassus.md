@@ -16,21 +16,23 @@ An Xaginassus will be content with warmth, darkness, and the ocassional small li
 
 ### Skills
 
-#### Guardian (+8) 
+#### Guardian (+7) 
 
-Any foolish hand which reaches into the Xaginassus's pouch home will be bitten off. 
-If you wish to for 8 *Messy* Damage which probably ignores armor.  
+Any foolish hand which reaches into the Xaginassus's pouch home will be bitten off.   
 
-## Xaginassus as a Monster
+## Xaginassus, an Otherworldly Horror
 
-- Tags
-- Attacks
-  - Attack
-  - Attack tags
-- HP/Armor
-- Special Qualities
-- Instinct
-- Moves
+*Tiny, Solitary, Stealthy*
+
+HP 12
+
+Otherworldy Form (1 Armor)
+
+Toothy Bite (d8 *Messy*)
+
+Instinct: To defend it's home
+
+Moves: Bite off an unsuspecting appendage
 
 ## A Secret
 

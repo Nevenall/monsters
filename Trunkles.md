@@ -32,7 +32,7 @@ Trunkles sings many heartfelt songs of its loneliness. Sad they may be, but also
   
 #### Stand a Sleepless Watch (+3)
 
-Trunkles sleeps not, nor ceases searching for dangers, and so makes a most excellent watch. Trunkles help gives +3 forward to Take Watch.  
+Trunkles sleeps not, nor ceases searching for dangers, and so makes a most excellent watch. Trunkles help gives +3 forward to anyone Taking Watch.  
 
 #### Sniff Out Dangers (+3)
 
@@ -40,18 +40,21 @@ Trunkles will warn those it treat it with kindness of pending dangers. Those so 
 
 ## Trunkles, the Slippery Monstrosity
 
+
+
 ## Instinct
+
 
 
 ## Stats
 
 
 ## Moves
-Disarm with soothing song   
-Beg for food 
+
+Disarm with a song 
 Sniff out dangers
-Squeeze through small spaces 
-Flee
+Squeeze through suprisingly small spaces 
+Flee at uncanny speed
 
 
 ## A Secret
