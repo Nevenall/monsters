@@ -8,7 +8,8 @@ Trunkles is a timid creature created by an unknown human aberrationist to serve 
 
 ### Cost
  
-Food and friendship.
+Food and friendship. 
+
 
 ### Loyalty
 
