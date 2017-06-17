@@ -44,7 +44,7 @@ Trunkles will warn those it treat it with kindness of pending dangers. Those so 
 
 ## Instinct
 
-
+Stay alive.
 
 ## Stats
 

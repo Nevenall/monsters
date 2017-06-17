@@ -2,6 +2,14 @@
 
 # The Gibberer
 
+There once was a young 'prentice mage
+who sought power the envy of ages
+
+He formulated his magical thesis
+To summon a creature to spout out all secrets
+
+but instead got this gibbering rager
+
 hideous laughter
 drooling, (Elemental rabies?)
 razor claws
