@@ -17,5 +17,7 @@ etc
 can really smell you coming.
 can be ridden
 olfactory bulbs
->Mount Move 10' turn
+>Mount
+<br>20' long
+<br>Move 10' turn
 <br> Slime Trail!
