@@ -18,3 +18,4 @@ can really smell you coming.
 can be ridden
 olfactory bulbs
 >Mount Move 10' turn
+<br> Slime Trail!
