@@ -52,10 +52,10 @@ Stay alive.
 
 ## Moves
 
-Disarm with a song 
-Sniff out dangers
-Squeeze through suprisingly small spaces 
-Flee at uncanny speed
+- Disarm with a song 
+- Sniff out dangers
+- Squeeze through suprisingly small spaces 
+- Flee at uncanny speed
 
 
 ## A Secret
