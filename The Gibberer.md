@@ -24,11 +24,11 @@ Razor Claws (Close, d8, 2 Piercing)
 
 ## Moves
 
-Cautiously stalk the weakest. 
-Steal many eggs.
-Leap with abandon into the midst of foes. 
-Leave the tracks of a barefooted human to deceive.
-Laugh hideously at the futilty of a foe's stuggles. 
+- Cautiously stalk the weakest. 
+- Steal many eggs.
+- Leap with abandon into the midst of foes. 
+- Leave the tracks of a barefooted human to deceive.
+- Laugh hideously at the futilty of a foe's stuggles. 
 
 ## Listen to Secrets, Listen to Madness
 
