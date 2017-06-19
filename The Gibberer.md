@@ -11,42 +11,37 @@ To summon a creature to spout out all secrets
 but instead got this gibbering rager
 
 
-The Gibberer, so it is reported, was birthed from a failed ritual to summon a being to speak secrets to its master. Instead, the Gibberer is a demented creature bent only on spreading the madness of the "secrets" which drools forth from its maw as a stinky yellow foam. The mierst fleck of this foam can spread the madness so the Gibberer always drags its razor claws through the foam before striking.
+The Gibberer, so it is reported, was birthed from a failed ritual to conjuring a being to speak secrets to its master. Instead, the Gibberer is a demented creature bent only on sharing the madness of its "secrets" which drools forth from its maw as a stinking yellow foam. The mearst fleck of this foam spreads madness, so the Gibberer is careful always to coat its claw before striking. 
 
 ## The Gibberer, Walking Madness
 
-*Medium, Solitary*
+*Solitary, Intellegent*
 
-HP 
-Armor
+HP 18
+Armor 1 (Unnatural Hide)
 
-Razor Claws (d10, 2 Piercing) 
+Razor Claws (Close, d8, 2 Piercing) 
 
 ## Moves
 
-Infect with razor claws or drool of .  
+Cautiously stalk the weakest. 
+Steal many eggs.
+Leap with abandon into the midst of foes. 
+Leave the tracks of a barefooted human to deceive.
+Laugh hideously at the futilty of a foe's stuggles. 
 
+## Listen to Secrets, Listen to Madness
 
-
-## Custom Moves 
-
-When you are infected by the gibbering madness, roll + CON [or WIS?]. 
-On a 10+ you learn a secret.
-On a 7-9 you learn a secret you wish you had not.
-On a miss you learn a secret but lose your mind.
+When you are infected by the gibbering madness, roll + INT. 
+On a 10+ you hear a secret.
+On a 7-9 you hear a secret you wish you had not.
+On a miss you hear a secret just before the madness takes you.
 
 
 ## Instinct
 
 Spread its gibbering maddness. 
 
-
-hideous laughter
-drooling, (Elemental rabies?)
-razor claws
-man footprints
-
-
 ## Secret
 
-Eggs, taken proph
+It's believed the Gibberer is a magically summoned being, but it was, in fact, once human.
