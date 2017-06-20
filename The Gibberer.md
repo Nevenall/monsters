@@ -1,5 +1,5 @@
 NOTE:
-What if you are infected by the gibberer you start turning into a gibberer, it is not immediate, maybe a list of changes over a week or so. LIke rabies meets werewolfism. <br> cures?
+What if you are infected by the gibberer you start turning into a gibberer, it is not immediate, maybe a list of changes over a week or so. LIke rabies meets werewolfism. <br> cures? <br> The horror of your hands turning into claws <br> thick matted hair starts growing all over your body <br> uncontrollable laughing etc. <br>
 <br> doesnt necessarily mean it couldnt still be part of the party lol 
 
 ![The Gibberer](/images/gibberer.jpg?raw=true)
