@@ -2,6 +2,10 @@
 
 # The Gibberer
 
+<p style="color:red;">
+What if you are infected by the gibberer you start turning into a gibberer, it is not immediate, maybe a list of changes over a week or so. LIke rabies meets werewolfism. <br> cures?
+<br> doesnt necessarily mean it couldnt still be part of the party lol </p>
+
 There once was a young 'prentice mage
 who sought power the envy of ages
 
