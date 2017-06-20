@@ -1,6 +1,6 @@
-<p style="color:red;">
+NOTE:
 What if you are infected by the gibberer you start turning into a gibberer, it is not immediate, maybe a list of changes over a week or so. LIke rabies meets werewolfism. <br> cures?
-<br> doesnt necessarily mean it couldnt still be part of the party lol </p>
+<br> doesnt necessarily mean it couldnt still be part of the party lol 
 
 ![The Gibberer](/images/gibberer.jpg?raw=true)
 
