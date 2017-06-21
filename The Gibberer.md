@@ -6,8 +6,6 @@ What if you are infected by the gibberer you start turning into a gibberer, it i
 
 # The Gibberer
 
-
-
 There once was a young 'prentice mage
 who sought power the envy of ages
 
@@ -40,12 +38,12 @@ Razor Claws (Close, d8, 2 Piercing)
 
 When you are infected by the gibbering madness, roll + INT. 
 On a 10+ you hear a secret.
-On a 7-9 you hear a secret you wish you had not.
-On a miss you hear a secret just before the madness takes you.
+On a 7-9 you hear a secret and are infected by madness.
+On a miss you will slowly transform into a Gibberer.
 
 ## Instinct
 
-Infect others. 
+Infect other beings with the Gibbering madness. 
 
 ## Secret
 
