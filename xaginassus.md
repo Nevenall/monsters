@@ -26,7 +26,7 @@ Any foolish hand which reaches into the Xaginassus's pouch home will be bitten o
 
 HP 12
 
-Otherworldy Form (1 Armor)
+Otherworldly Form (1 Armor)
 
 Toothy Bite (d8 *Messy*)
 
@@ -36,4 +36,4 @@ Moves: Bite off an unsuspecting appendage
 
 ## A Secret
 
-In the dark place from whence a least Xaginassus may be summoned lurk many more, and much larger, of its kind awaiting only a subtle misprounciation of the *Invocation.*  
+In the dark place from whence a least Xaginassus may be summoned lurk many more, and much larger, of its kind awaiting only a subtle mispronunciation of the *Invocation.*  

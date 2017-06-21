@@ -7,4 +7,10 @@
 
 large
 thieves use like a ladder
-ghgfj
+
+A sewer dwelling creature with shark-like skin. Quiet smart. 
+
+Thieves sometimes make deals with a bibbin to be mobile ladder and help thieving companion. 
+
+
+

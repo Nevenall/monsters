@@ -54,7 +54,7 @@ Stay alive.
 
 - Disarm with a song 
 - Sniff out dangers
-- Squeeze through suprisingly small spaces 
+- Squeeze through surprisingly small spaces 
 - Flee at uncanny speed
 
 

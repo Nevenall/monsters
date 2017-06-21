@@ -64,8 +64,14 @@
       }
     },
     {
-      "taskName": "count",
+      "taskName": "word count project",
       "command": "Get-ChildItem *.md -Recurse | Get-Content | Measure-Object -Line -Word -Character",
+      "isShellCommand": true,
+      "showOutput": "always"
+    },
+    {
+      "taskName": "word count this file",
+      "command": "Get-ChildItem ${file} | Get-Content | Measure-Object -Line -Word -Character",
       "isShellCommand": true,
       "showOutput": "always"
     }

@@ -21,7 +21,7 @@ The Gibberer, so it is reported, was birthed from a failed ritual to conjuring a
 
 ## The Gibberer, Walking Madness
 
-*Solitary, Intellegent*
+*Solitary, Intlligent*
 
 HP 18
 Armor 1 (Unnatural Hide)
@@ -31,10 +31,10 @@ Razor Claws (Close, d8, 2 Piercing)
 ## Moves
 
 - Cautiously stalk the weakest. 
-- Steal many eggs.
 - Leap with abandon into the midst of foes. 
+- Steal eggs.
 - Leave the tracks of a barefooted human to deceive.
-- Laugh hideously at the futilty of a foe's stuggles. 
+- Laugh hideously at the futility of a foe's struggles. 
 
 ## Listen to Secrets, Listen to Madness
 
@@ -43,10 +43,9 @@ On a 10+ you hear a secret.
 On a 7-9 you hear a secret you wish you had not.
 On a miss you hear a secret just before the madness takes you.
 
-
 ## Instinct
 
-Spread its gibbering maddness. 
+Infect others. 
 
 ## Secret
 
