@@ -1,5 +1,5 @@
 
-![The Scentaur](/images/scentorg.jpg?raw=true)
+![The Scentaur](/images/scentaur.jpg?raw=true)
 
 # The Scentaur
 
