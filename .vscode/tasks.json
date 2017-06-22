@@ -19,7 +19,6 @@
       "command": "gci *.md -Recurse | foreach { write-output \"$($_.FullName)\"; OddSpell $_; }",
       "isShellCommand": true,
       "showOutput": "always",
-      "isTestCommand": true,
       "problemMatcher": {
         "owner": "OddSpell",
         "severity": "warning",
@@ -41,7 +40,7 @@
     },
     {
       "taskName": "spell check this file",
-      "command": "Write-Output \"${file}\"; OddSpell \"${file}\";",
+      "command": "write-output \"${file}\"; OddSpell \"${file}\";",
       "isShellCommand": true,
       "showOutput": "always",
       "problemMatcher": {

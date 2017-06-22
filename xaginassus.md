@@ -18,21 +18,23 @@ An Xaginassus will be content with warmth, darkness, and the ocassional small li
 
 #### Guardian (+7) 
 
-Any foolish hand which reaches into the Xaginassus's pouch home will be bitten off.   
+Any foolish hand which reaches into the Xaginassus's pouch home will be bitten off. 
 
 ## Xaginassus, an Otherworldly Horror
 
 *Tiny, Solitary, Stealthy*
 
-HP 12
+HP 12          Otherworldly Form (1 Armor)
 
-Otherworldly Form (1 Armor)
+Toothy Bite (d8 damage, *Messy*)
 
-Toothy Bite (d8 *Messy*)
+### Instinct 
 
-Instinct: To defend it's home
+To defend it's home.
 
-Moves: Bite off an unsuspecting appendage
+### Moves
+ 
+- Bite off an unsuspecting appendage
 
 ## A Secret
 

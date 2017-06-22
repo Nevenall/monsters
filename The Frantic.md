@@ -1,24 +1,25 @@
 ![The Frantic](/images/frantic.jpg?raw=true)
 
-# The Frantic
+# The Frantic, Furiously Dangerous
 
-Don't know much about where or how these came about, but we do know that a pack of them tore about an entire garrison. [specific time/place].
-A group of them is called a rage and the more you hurt them the more dangerous they become.
+The Gatakelae were once a prosperous people who's beserker warriors defended the tribe's bounty of salmon until the day their queen refused the advances of a visiting warlock and he cursed her and all her people to embody his vision of them as vicious half-salmony monsters. Thus were the beastly Frantic born and thus did they persue and shread their creator.
 
+## Instinct
 
-## The Frantic, Furiously Dangerous
+Rip soft flesh.
 
-*Group*
+## A Secret
 
-HP 5
-Thick Hides (Armor 1)
+A group
 
-Rip and Tear (2d6[b] + Rage)
+---
+
+*Horde*
+
+HP 7          Thick Hide (1 Armor)
+
+Rip and Tear (b[2d6] + Rage damage, *Close, Messy*)
 
 ## Rage
 
 Whenever any Frantic in a group takes damage increase the group's Rage by 1. This is in addition to the bonus for multiple attackers.
-
-## Moves
-
-- Play dead to draw a foe in.
