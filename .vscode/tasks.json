@@ -70,7 +70,7 @@
     },
     {
       "taskName": "word count this file",
-      "command": "Get-ChildItem ${file} | Get-Content | Measure-Object -Line -Word -Character",
+      "command": "Get-ChildItem \"${file}\" | Get-Content | Measure-Object -Line -Word -Character",
       "isShellCommand": true,
       "showOutput": "always"
     }
