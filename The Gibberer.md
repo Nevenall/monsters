@@ -11,7 +11,7 @@ To summon a creature to spout out all secrets
 but instead got this gibbering rager
 
 
-The Gibberer, so it is reported, was birthed from a failed attempt to conjure a being to speak secrets to its master. Instead, the Gibberer is a demented creature bent only on sharing the madness of its "secrets" which drools forth from its maw as a stinking yellow foam. The mearst fleck of this foam spreads madness, so the Gibberer is careful always to coat its claw before striking. 
+The Gibberer, so it is reported, was birthed from a failed attempt to conjure a being to speak secrets to its master. Instead, the Gibberer is a demented creature bent only on sharing the madness of its "secrets" which drools forth from its maw as a stinking yellow foam. The merest fleck of this foam spreads madness, so the Gibberer is careful always to coat its claw before striking. 
 
 ## Instinct
 

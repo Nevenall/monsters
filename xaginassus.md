@@ -2,13 +2,13 @@
 
 # Least Xaginassus
 
-Some few demented summoners, it has been recorded, employ the *Invocation of Least Xaginassus* which will conjure one of these fist-sized creatures from a strange dark plane. Least Xaginassuses dwell contentedly in darkness and feed upon the warmth of the living. They are,therefore, commonly placed in packs or satchels to guard against thievery. A Xaginassus can be easily taught to recognize the scent of its master and any other hand which reaches into its home will be bitten off. 
+Some few demented summoners, it has been recorded, employ the *Invocation of Least Xaginassus* which will conjure one of these fist-sized creatures from a strange dark plane. Least Xaginassuses dwell contentedly in darkness and feed upon the warmth of the living. They are, therefore, commonly placed in packs or satchels to guard against thievery. A Xaginassus can be easily taught to recognize the scent of its master and any other hand which reaches into its home will be bitten off. 
 
 ## Xaginassus, a Fierce Guardian of Small Treasures
 
 ### Cost
 
-An Xaginassus will be content with warmth, darkness, and the ocassional small living creature to consume.
+An Xaginassus will be content with warmth, darkness, and the occasional small living creature to consume.
 
 ### Loyalty
 

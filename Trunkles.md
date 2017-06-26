@@ -30,7 +30,7 @@ Trunkles provides all beings within close or near range the power infravision.
 
 ### Sing a Soothing Song (+3)
 
-Trunkles sings many heartfelt songs of its loneliness. Sad they may be, but also magically soothing. You may add +3 HP to any healing you recieve during a song.
+Trunkles sings many heartfelt songs of its loneliness. Sad they may be, but also magically soothing. You may add +3 HP to any healing you receive during a song.
   
 ### Stand a Sleepless Watch (+3)
 
