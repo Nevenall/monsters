@@ -14,11 +14,11 @@ It is said that a being strong enough of mind to endure the triple gaze of a Dra
 
 ----
 
-*Group, Intelligent, Large, Triple Minded, *
+*Group, Intelligent, Large, Triple Minded*
 
 HP 18         Thick and Ancient Hide (2 Armor)
 
-Psychic Gaze (d8+3 damage, *psychic, ignores armor, requires recharge*)
+Psychic Gaze (d8+3 damage, *psychic, ignores armor, requires rechar ge*)
 
 Trample (d10+3 damage, *Forceful*)
 

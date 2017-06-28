@@ -8,11 +8,7 @@ The Gatakelae were once a prosperous people who's beserker warriors defended the
 
 Rip soft flesh.
 
-## A Secret
-
-A group
-
----
+----
 
 *Horde*
 
