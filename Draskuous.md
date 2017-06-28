@@ -1,15 +1,37 @@
 ![Draskuous](/images/draskuous.jpg?raw=true)
 
-# Draskuous, Loyal Psychic Mount
+# Draskuous, Ancient Psychic Mount
 
-Fine and ancient are the Draskuous; creatures of gentler age. Rumor of them ocassionally comes from environs so distant as to be thought imaginary by most, but some still seek them, and some rare few who find one, master the Draskuous, and so ride one of these mighty relics of long forgotten wars.  
+Fine and ancient are the Draskuous; creatures of stranger age. Rumor of them comes ocassionally from environs so distant as to be thought as imaginary as the creatures themselves. Some still seek them, and some rarer few who find one, master the Draskuous and so ride one of these mighty tri-minded relics of forgotten wars.  
 
+## Instinct
 
+To reproduce; which they do by consuming the thoughtforms of a mind in the act of creation. 
 
+## A Secret
 
+It is said that a being strong enough of mind to endure the triple gaze of a Draskuous will earn it's respect and may thereafter bargin with it for mutual benefit. 
 
-Sustains self by temporary ability drain modifiers from "keeper"
-3 psychic gaze attacks once every third turn
-trample attack
+----
 
->Mount
+*Group, Intelligent, Large, Triple Minded, *
+
+HP 18         Thick and Ancient Hide (2 Armor)
+
+Psychic Gaze (d8+3 damage, *psychic, ignores armor, requires recharge*)
+
+Trample (d10+3 damage, *Forceful*)
+
+## Moves
+
+- Psychic Gaze of Charm
+- Psychic Gaze of Holding
+
+## Psychic Warbeast
+
+When you feed a friendly Draskuous mount from your psyche, take the Stunned debility and Hold 3. If you are already Stunned permenantly reduce your Intelligence by 1.
+
+Spend hold to have the Draskuous:
+- Traumatize (d8 damage, *psychic, ignores armor*)
+- Hold Person (As the Cleric Spell)
+- Charm Person (As the Wizard Spell)

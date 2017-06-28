@@ -25,7 +25,7 @@ It's believed the Gibberer is a magically summoned being, but it was, in fact, o
 
 The Gibberer will abandon all to eat any eggs it happens to see, even at it's own mortal peril. 
 
----
+----
 
 *Solitary, Intelligent*
 

@@ -25,4 +25,4 @@ The Bibbin can unlock any barrier with a touch of its tongue.
   
 ### Plutomancy (+3)
 
-The Bibbin knows much of treasure and can sense even the most cunningly concealed valuables. Add +3 to Spout Lore about wealth and treasures, and add +3 to Discern Realities as long as you ask "What here is of value."
+The Bibbin knows much of treasure and can sense even the most cunningly concealed valuables. Add +3 to Spout Lore about wealth and treasures, and add +3 to Discern Realities as long as you ask "What here is of material value."
