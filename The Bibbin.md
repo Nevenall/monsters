@@ -2,7 +2,7 @@
 ![The Bibbin](/images/bibbin.jpg?raw=true)
 
 
-# The Bibbin, Cheerfully Helpful Accomplise in Thieving
+# The Bibbin, Cheerfully Helpful Accomplice in Thieving
 
 Thieves Guild legend tells of a desperately impoverished mage who struck a bargain of mutual aid with an otherworldly creature he called the Bibbin. The creature would aid in stealing, and in return ask only that someone, anyone, be punished for each crime the pair committed. And thus began a spree of thefts; each equally impossible but each with clues clearly leading to some new notable of the city.
 

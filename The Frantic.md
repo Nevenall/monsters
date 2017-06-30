@@ -2,7 +2,7 @@
 
 # The Frantic, Furiously Dangerous
 
-The Gatakelae were once a prosperous people who's beserker warriors defended the tribe's bounty of salmon until the day their queen refused the advances of a visiting warlock and he cursed her and all her people to embody his vision of them as vicious half-salmony monsters. Thus were the beastly Frantic born and thus did they persue and shread their creator.
+The Gatakelae were once a prosperous people who's berserker warriors defended the tribe's bounty of salmon until the day their queen refused the advances of a visiting warlock and he cursed her and all her people to embody his vision of them as vicious half-salmony monsters. Thus were the beastly Frantic born and thus did they pursue and shred their creator.
 
 ## Instinct
 
