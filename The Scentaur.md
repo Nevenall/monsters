@@ -1,7 +1,7 @@
 
 ![The Scentaur](/images/scentaur.jpg?raw=true)
 
-# The Scentaur
+# The Scentaur, An Alchemical Mishap
 
 In the workshop of a slovenly alchemist a slug, one day, made its slimy way into a jar of desiccated olfactory bulbs, and there it died. Little notice we might have taken of this commonplace event had said alchemist not conceived of a potion to enhance the smell sensory apparatus of the king's poison taster.  
 

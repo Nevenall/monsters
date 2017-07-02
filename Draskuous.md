@@ -1,6 +1,6 @@
 ![Draskuous](/images/draskuous.jpg?raw=true)
 
-# Draskuous, Ancient Psychic Mount
+# Draskuous, An Ancient Psychic Mount
 
 Fine and ancient are the Draskuous; creatures of stranger age. Rumor of them comes occasionally from environs so distant as to be thought as imaginary as the creatures themselves. Some still seek them, and some rarer few who find one, master the Draskuous and so ride one of these mighty tri-minded relics of forgotten wars.  
 

@@ -1,6 +1,6 @@
 ![The Gibberer](/images/gibberer.jpg?raw=true)
 
-# The Gibberer, Walking Madness
+# The Gibberer, Madness Walking
 
 There once was a young 'prentice mage
 who sought power the envy of ages
